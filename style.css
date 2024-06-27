@@ -1,0 +1,169 @@
+.container
+{
+    background-color: beige;
+    width: 1010px;
+}
+body
+{
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.main_header
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px;
+    background-color: #3bc9db;
+}
+#navigator
+{
+    display: flex;
+    gap: 40px;
+}
+tr :hover
+{
+    background-color: #3bc9db;
+}
+th,td
+{
+    border: 1px solid;
+    justify-content: center;
+}
+h1
+{
+    margin-left: 50px;
+    color:white;
+    font-size: 50px;
+}
+#quotes
+{
+    color:#9c36b5 ;
+}
+.main_header a:hover
+{
+    color: black;
+}
+.main_header a:active
+{
+    color: white;
+}
+.about p
+{
+    margin-bottom: 30px;
+}
+.about img
+{
+    display:flex;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border: #a318c6 solid;
+}
+.haircut
+{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.haircut p
+{
+    margin-left: 20px;
+}
+.massage
+{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.massage p
+{
+    margin-left: 20px;
+}
+.nailcut
+{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.nailcut p 
+{
+    margin-left: 20px;
+}
+.bath
+{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.bath p
+{
+   margin-left: 20px; 
+}
+.fur
+{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.fur p
+{
+    margin-left: 20px;
+}
+.brush
+{
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.brush p 
+{
+    margin-left: 20px;
+}
+#table
+{
+   margin: auto;
+}
+.haircut img
+{
+    border: #a318c6 dotted;
+}
+.massage img
+{
+    border: #a318c6 dotted;
+}
+.nailcut img
+{
+    border: #a318c6 dotted;
+}
+.bath img
+{
+    border: #a318c6 dotted;
+}
+.fur img
+{
+    border: #a318c6 dotted;
+}
+.brush img
+{
+    border: #a318c6 dotted;
+}
+.booking li
+{
+   align-items: center;
+}
+td
+{
+    text-align: center;
+}
+
+.table 
+{
+    text-align: center;
+}
+.booking p
+{
+    text-align: center;
+}
